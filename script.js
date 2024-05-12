@@ -1,4 +1,4 @@
-alert("test")
+alert("Os console active")
 
 let utf8decoder = new TextDecoder(); // default 'utf-8' or 'utf8'
 
